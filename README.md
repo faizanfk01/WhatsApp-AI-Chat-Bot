@@ -79,7 +79,7 @@ The bot mimics human conversation, replies in the same language and tone, and ca
 
 6. Run the bot:
 
-        python whatsapp_ai_bot.py
+        python WhatsApp_Ai_ChatBot.py
 
 7. The bot will start monitoring messages:
 
