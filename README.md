@@ -50,23 +50,24 @@ The bot mimics human conversation, replies in the same language and tone, and ca
 ## 🎮 How to Run
 
 1. Clone this repository:
+
         git clone https://github.com/USERNAME/REPO_NAME.git
 
-2. Navigate to the project folder:
+3. Navigate to the project folder:
 
         cd WhatsApp-AI-Chat-Bot
 
-3. Install dependencies (if not already installed):
+4. Install dependencies (if not already installed):
 
         pip install selenium pyautogui pyperclip openai
 
-4. Set up your OpenAI API Key:
+5. Set up your OpenAI API Key:
 
     Replace "your-api-here" in the script with your own OpenAI API key:
 
         client = OpenAI(api_key="YOUR_OPENAI_KEY_HERE")
 
-5. Create a Chrome user data directory:
+6. Create a Chrome user data directory:
 
 - Choose a location on your computer for a separate Chrome profile for the bot.
 
