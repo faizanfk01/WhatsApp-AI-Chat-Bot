@@ -51,7 +51,7 @@ The bot mimics human conversation, replies in the same language and tone, and ca
 
 1. Clone this repository:
 
-        git clone https://github.com/USERNAME/REPO_NAME.git
+        https://github.com/faizanfk01/WhatsApp-AI-Chat-Bot.git
 
 3. Navigate to the project folder:
 
